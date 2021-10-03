@@ -1,0 +1,7 @@
+tensorflow
+matplotlib
+jupyter
+librosa
+pedalboard
+pydub
+soxbindings
